@@ -4,8 +4,9 @@
 
 ##  About Me
 
-🔎 Passionate about uncovering insights from data and turning complexity into clarity. I enjoy transforming raw data into meaningful decisions and forecasts. 🚀💡
-👨🏻‍💻 Aspiring Data Scientist — I mostly work with Python 🐍.
+🔎 Passionate about uncovering insights from data and turning complexity into clarity. I enjoy transforming raw data into meaningful decisions and forecasts.🚀
+
+🔥 Training to become a skilled Data Scientist, — I mostly work with Python 🐍.
 
 ### 🎯 Current Focus
 
