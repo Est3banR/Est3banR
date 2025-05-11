@@ -1,11 +1,8 @@
-## 👋 Hi there! I'm Esteban
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave" align="left"/>  
-
+## Hi there! I'm Esteban <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&vCenter=true&width=500&lines=Data+Science+Engineering+Student)](https://git.io/typing-svg)
 
-## 💫 About Me
+##  About Me
 
 🔎 Passionate about uncovering insights from data and turning complexity into clarity. I enjoy transforming raw data into meaningful decisions and forecasts. 🚀💡
 👨🏻‍💻 Aspiring Data Scientist — I mostly work with Python 🐍.
@@ -26,3 +23,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Est3banR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Est3banR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=Est3banR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
